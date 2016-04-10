@@ -1,2 +1,3 @@
 # hello-world
-My first, my last, my everything
+My first, my last, my everything.
+This was me when I first started. Let's hope this is a far cry from where you are now...
